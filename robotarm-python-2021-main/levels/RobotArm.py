@@ -81,7 +81,7 @@ class RobotArm:
   ]
   _defaultlevels = [
     {'name': 'exercise 1', 'yard' : [["red"],[]]},
-    {'name': 'exercise 2', 'yard' : [["blue"],[],[],[],["blue"],[],[],["blue"]]},
+    {'name': 'exercise 2', 'yard' : [[],[],[],[],[],[],[],[],[],["blue","blue","blue"]]},
     {'name': 'exercise 3', 'yard' : [["white","white","white","white"]]},
     {'name': 'exercise 4', 'yard' : [["blue","white", "green"]]},
     {'name': 'exercise 5', 'yard' : [[],["red","red","red","red","red","red","red"]]},

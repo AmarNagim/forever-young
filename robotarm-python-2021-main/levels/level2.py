@@ -3,7 +3,8 @@ from RobotArm import RobotArm
 robotArm = RobotArm('exercise 2')
 
 # Jouw python instructies zet je vanaf hier:
-
+for right in range(9):
+ robotArm.moveRight();
 
 
 
